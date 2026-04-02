@@ -48,7 +48,7 @@ Here is a preview of my project:
 ![Links to Fetch From](LinksToFetchFrom.png)
 
 ### Invoices
-![Invoices in Links](Invoices_in_Links).png)
+![Invoices in Links](Invoices_in_links.png)
 ![Invoices as Sheets](Invoices_as_Sheets.png)
 
 
