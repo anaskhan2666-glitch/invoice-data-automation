@@ -34,3 +34,21 @@ Reduced manual effort significantly and improved overall efficiency in processin
 ## Future Improvements
 - Integration with SQL databases
 - Development of a reporting dashboard
+## Screenshots
+
+Here is a preview of my project:
+
+## Screenshots of the Project
+
+### Main Screens
+![Before Main Screen](Main:Before.png)
+![After Main Screen](Main:After.png)
+
+### Links Feature
+![Links to Fetch From](LinksToFetchFrom.png)
+
+### Invoices
+![Invoices in Links](Invoices(in%20Links).png)
+![Invoices as Sheets](Invoices%20as%20Sheets.png)
+
+
