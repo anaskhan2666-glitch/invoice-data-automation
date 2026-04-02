@@ -41,14 +41,14 @@ Here is a preview of my project:
 ## Screenshots of the Project
 
 ### Main Screens
-![Before Main Screen](Main/Before.png)
-![After Main Screen](Main/After.png)
+![Before Main Screen](Main_Before.png)
+![After Main Screen](Main_After.png)
 
 ### Links Feature
 ![Links to Fetch From](LinksToFetchFrom.png)
 
 ### Invoices
-![Invoices in Links](Invoices(in%20Links).png)
-![Invoices as Sheets](Invoices%20as%20Sheets.png)
+![Invoices in Links](Invoices_in_Links).png)
+![Invoices as Sheets](Invoices_as_Sheets.png)
 
 
