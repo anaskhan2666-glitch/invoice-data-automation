@@ -41,8 +41,8 @@ Here is a preview of my project:
 ## Screenshots of the Project
 
 ### Main Screens
-![Before Main Screen](Main:Before.png)
-![After Main Screen](Main:After.png)
+![Before Main Screen](Main/Before.png)
+![After Main Screen](Main/After.png)
 
 ### Links Feature
 ![Links to Fetch From](LinksToFetchFrom.png)
